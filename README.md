@@ -1,16 +1,18 @@
-# React + Vite
+# Daily Journal App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Description
+Daily Journal App is a simple web app that lets users record their daily thoughts and activities. The landing page shows the project name and description, and future updates will allow users to create, edit, and view journal entries.
 
-Currently, two official plugins are available:
+## Planned Features
+1. Add new journal entries with a title and body
+2. View a list of past entries
+3. Edit existing entries
+4. Delete entries
+5. Optional: Search or filter entries by date or keyword
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- React
+- Vite
+- CSS
+- Netlify (for deployment)
+- Git/GitHub (for version control)
